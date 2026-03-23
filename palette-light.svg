@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="552" height="144">
   <rect width="552" height="144" fill="#f5f2ef"/>
-  <rect x="8"   y="8" width="60" height="60" fill="#f5f2ef" stroke="#ddd" stroke-width="1"/>
+  <rect x="8"   y="8" width="60" height="60" fill="#2a2520"/>
   <rect x="76"  y="8" width="60" height="60" fill="#a00000"/>
   <rect x="144" y="8" width="60" height="60" fill="#008200"/>
   <rect x="212" y="8" width="60" height="60" fill="#7a7a00"/>
   <rect x="280" y="8" width="60" height="60" fill="#2a5599"/>
   <rect x="348" y="8" width="60" height="60" fill="#9a009a"/>
   <rect x="416" y="8" width="60" height="60" fill="#008a8a"/>
-  <rect x="484" y="8" width="60" height="60" fill="#2a2520"/>
-  <rect x="8"   y="76" width="60" height="60" fill="#808080"/>
+  <rect x="484" y="8" width="60" height="60" fill="#d5d2cf"/>
+  <rect x="8"   y="76" width="60" height="60" fill="#636058"/>
   <rect x="76"  y="76" width="60" height="60" fill="#cd0000"/>
   <rect x="144" y="76" width="60" height="60" fill="#00a800"/>
   <rect x="212" y="76" width="60" height="60" fill="#a5a500"/>
   <rect x="280" y="76" width="60" height="60" fill="#3a6fbf"/>
   <rect x="348" y="76" width="60" height="60" fill="#cd00cd"/>
   <rect x="416" y="76" width="60" height="60" fill="#00a8a8"/>
-  <rect x="484" y="76" width="60" height="60" fill="#1a1512"/>
+  <rect x="484" y="76" width="60" height="60" fill="#f5f2ef" stroke="#ddd" stroke-width="1"/>
 </svg>
