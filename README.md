@@ -1,4 +1,4 @@
-# soot
+# payal
 
 warm color scheme for [Ghostty](https://ghostty.org) terminal. available in dark and light variants.
 
@@ -6,29 +6,29 @@ warm color scheme for [Ghostty](https://ghostty.org) terminal. available in dark
 
 ### dark
 
-![soot color palette](palette.svg)
+![payal color palette](palette.svg)
 
 ### light
 
-![soot-light color palette](palette-light.svg)
+![payal-light color palette](palette-light.svg)
 
 ## installation
 
 copy the theme file to your Ghostty themes directory:
 
 ```sh
-cp soot.conf ~/.config/ghostty/themes/
-cp soot-light.conf ~/.config/ghostty/themes/
+cp payal.conf ~/.config/ghostty/themes/
+cp payal-light.conf ~/.config/ghostty/themes/
 ```
 
 then add to your Ghostty config:
 
 ```
-config-file = "themes/soot.conf"
+config-file = "themes/payal.conf"
 ```
 
 or for the light variant:
 
 ```
-config-file = "themes/soot-light.conf"
+config-file = "themes/payal-light.conf"
 ```
